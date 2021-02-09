@@ -1,6 +1,6 @@
-# Museu da Emigração
-<div align="right">Linguagens de Marcação Extensíveis - ELC1092</div>
+# Linguagens de Marcação Extensíveis
+<div align="right">ELC1092</div>
 <br>
 
-## [Trabalho Final](http://github.com/thalissonforte)
+## [Trabalho Final](https://github.com/thalissonforte/Linguagens-de-Marcacao-Extensiveis/Trabalho-Final)
 
