@@ -19,7 +19,7 @@ Antes de iniciar os procedimentos de transformação, certifique-se de que possu
     * `emigranteAlfabeticoHTML.xsl`
 
 * Imagens: 
-    * Dentro do diretório `/src/imagens`
+    * Dentro do diretório `/src/imagens_museu`
 
 ```
   Todos os arquivos devem estar dentro do diretório
@@ -35,7 +35,7 @@ Antes de iniciar os procedimentos de transformação, certifique-se de que possu
   ├── processosGeraisHTML.xsl
   ├── emigranteAlfabeticoHTML.xsl
   └── src
-      └── imagens
+      └── imagens_museu
  
 ```
 
