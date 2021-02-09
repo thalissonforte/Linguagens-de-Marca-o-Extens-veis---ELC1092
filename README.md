@@ -2,5 +2,5 @@
 <div align="right">ELC1092</div>
 <br>
 
-## [Trabalho Final](https://github.com/thalissonforte/Linguagens-de-Marcacao-Extensiveis/Trabalho-Final)
+## [Trabalho Final](https://github.com/thalissonforte/Linguagens-de-Marcacao-Extensiveis/tree/main/Trabalho-Final)
 
