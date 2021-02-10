@@ -1,6 +1,18 @@
 # Museu da Emigração
 <div align="right">Linguagens de Marcação Extensíveis - ELC1092</div>
 <br>
+<br>
+**OBSERVAÇÕES INICIAIS:**<br>
+Para facilitar a compreensão e a execução na ordem correta, deixamos os arquivos nomeados da seguinte forma:<br>
+`Ordem de execução - Nome do arquivo`
+<br>
+
+Sugerimos também o acesso a pasta do GitHub destinada ao trabalho para a melhor leitura do README. 
+
+(https://github.com/thalissonforte/Linguagens-de-Marcacao-Extensiveis/blob/main/Trabalho-Final)
+
+Trabalho desenvolvido por Luiz Felipe Lersch e Thalisson Forte.
+<br><br>
 
 ## Base de Dados
 
